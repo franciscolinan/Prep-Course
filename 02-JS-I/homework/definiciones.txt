@@ -1,0 +1,11 @@
+- Variables: Una variable es un espacio en memoria que almacena algun tipo de dato (string, int, etc). Las variables tienen
+diferentes scopes (variables locales o globales). En algunos lenguajes es necesario especificar el tipo de dato y en otros no.
+
+- String: Es un tipo de variable. Es una cadena de caracteres y generalmente se define con un texto entre "".
+
+- Funciones: Es un bloque de código que podemos definir con un nombre, para luego llamarla. Este bloque de código puede
+recibir variables (argumentos) y devolver alguna variable mediante la palabra reservada "return".
+
+- Declaraciones if: Es un operador de control de flujo que evalua expresiones.
+
+- Valores booleanos: almacena true o false.
